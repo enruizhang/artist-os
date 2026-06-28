@@ -1,4 +1,4 @@
-const CACHE_NAME = 'project-20w-v4-pwa-2026-06-28-6';
+const CACHE_NAME = 'project-20w-v4-pwa-2026-06-28-7';
 const APP_ASSETS = [
   './',
   './index.html',
